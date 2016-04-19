@@ -1,6 +1,6 @@
 {
   "name": "rm-rf",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Rimraf and glob all in one.",
   "author": {
     "name": "matthewh",
