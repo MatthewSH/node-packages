@@ -1,0 +1,38 @@
+{
+  "name": "to-title",
+  "version": "3.0.0",
+  "description": "Convert a string to a title case.",
+  "author": {
+    "name": "matthewh",
+    "email": "hello@matthewh.in",
+    "url": "http://matthewh.in/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "main": "index.js",
+  "homepage": "https://github.com/MatthewNPM/to-title",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatthewNPM/to-title"
+  },
+  "bugs": {
+    "url": "https://github.com/MatthewNPM/to-title/issues"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "keywords": [
+    "title",
+    "case",
+    "titlecase",
+    "string"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "escape-regexp-component": "^1.0.2",
+    "title-case-minors": "^1.0.0",
+    "to-capital-case": "^1.0.0"
+  }
+}
