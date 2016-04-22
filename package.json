@@ -1,0 +1,36 @@
+{
+  "name": "slug-to-title",
+  "version": "3.0.0",
+  "description": "Generate a title from given slug",
+  "author": {
+    "name": "matthewh",
+    "email": "hello@matthewh.in",
+    "url": "http://matthewh.in/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "main": "index.js",
+  "homepage": "https://github.com/MatthewNPM/slug-to-title",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatthewNPM/slug-to-title"
+  },
+  "bugs": {
+    "url": "https://github.com/MatthewNPM/slug-to-title/issues"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "keywords": [
+    "slug",
+    "title",
+    "capitalize"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "to-title": "^3.0.0",
+    "trim": "0.0.1"
+  }
+}
