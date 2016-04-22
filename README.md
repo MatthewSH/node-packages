@@ -39,6 +39,7 @@ scrape(options, 'p', ...);
 ```
 
 **Sending Post Requests**
+
 Along with the normal `get` request scraping, you can also send post requests.
 ```javascript
 var options = {
