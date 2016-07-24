@@ -5,7 +5,7 @@ const $glob = require('glob');
 const $loop = require('parallel-loop');
 const $rr   = require('rimraf');
 
-exports = module.exports = functon rmRf (_pattern, _options, _callback) {
+exports = module.exports = function rmRf (_pattern, _options, _callback) {
   var options = {};
   if (typeof _callback === 'undefined') {
     _callback = _options;
