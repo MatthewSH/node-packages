@@ -12,6 +12,7 @@
   },
   "private": false,
   "main": "index.js",
+  "typings": "index.d.ts",
   "homepage": "https://github.com/MatthewNPM/with-env",
   "repository": {
     "type": "git",
