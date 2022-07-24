@@ -4,8 +4,8 @@
   "description": "Read and then apply .env file in the working directory, assuming the .env exists",
   "author": {
     "name": "matthewh",
-    "email": "hello@matthewh.in",
-    "url": "http://matthewh.in/"
+    "email": "matthatcher@pm.me",
+    "url": "https://matthewhatcher.com"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,13 +13,13 @@
   "private": false,
   "main": "index.js",
   "typings": "index.d.ts",
-  "homepage": "https://github.com/MatthewNPM/with-env",
+  "homepage": "https://github.com/MatthewSH/node-packages",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MatthewNPM/with-env"
+    "url": "https://github.com/MatthewSH/node-packages"
   },
   "bugs": {
-    "url": "https://github.com/MatthewNPM/with-env/issues"
+    "url": "https://github.com/MatthewSH/node-packages/issues"
   },
   "engines": {
     "node": ">= 0.10"

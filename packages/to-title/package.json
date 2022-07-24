@@ -4,21 +4,21 @@
   "description": "Convert a string to a title case.",
   "author": {
     "name": "matthewh",
-    "email": "hello@matthewh.in",
-    "url": "http://matthewh.in/"
+    "email": "matthatcher@pm.me",
+    "url": "https://matthewhatcher.com"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "private": false,
   "main": "index.js",
-  "homepage": "https://github.com/MatthewNPM/to-title",
+  "homepage": "https://github.com/MatthewSH/node-packages",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MatthewNPM/to-title"
+    "url": "https://github.com/MatthewSH/node-packages"
   },
   "bugs": {
-    "url": "https://github.com/MatthewNPM/to-title/issues"
+    "url": "https://github.com/MatthewSH/node-packages/issues"
   },
   "engines": {
     "node": ">= 0.10"
