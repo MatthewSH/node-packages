@@ -1,0 +1,44 @@
+{
+  "name": "rm-rf",
+  "version": "2.0.1",
+  "description": "Rimraf and glob all in one.",
+  "author": {
+    "name": "matthewh",
+    "email": "hello@matthewh.in",
+    "url": "http://matthewh.in/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "main": "index.js",
+  "homepage": "https://github.com/MatthewNPM/rm-rf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatthewNPM/rm-rf"
+  },
+  "bugs": {
+    "url": "https://github.com/MatthewNPM/rm-rf/issues"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "keywords": [
+    "rimraf",
+    "rm",
+    "rf",
+    "glob",
+    "files",
+    "remove"
+  ],
+  "files": [
+    "README.md",
+    "index.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.0.3",
+    "parallel-loop": "0.0.1-security",
+    "rimraf": "^2.5.2"
+  }
+}
